@@ -1,0 +1,24 @@
+# Backend (Spring Boot)
+/lakeSide-hotel-demo-server-master/target/
+/lakeSide-hotel-demo-server-master/*.log
+/lakeSide-hotel-demo-server-master/.idea/
+/lakeSide-hotel-demo-server-master/.classpath
+/lakeSide-hotel-demo-server-master/.project
+/lakeSide-hotel-demo-server-master/.settings/
+/lakeSide-hotel-demo-server-master/.mvn/wrapper/maven-wrapper.jar
+
+# Frontend (React/Vite)
+/lakeSide-hotel-demo-client-main/node_modules/
+/lakeSide-hotel-demo-client-main/dist/
+/lakeSide-hotel-demo-client-main/.env
+/lakeSide-hotel-demo-client-main/.vite/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
